@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-#       $Id: Utils.py 98 2010-11-19 13:17:42Z jraedler $  
 
 from cPolygon import Polygon
 from math import sqrt, fabs, floor

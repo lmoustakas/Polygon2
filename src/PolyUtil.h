@@ -1,4 +1,3 @@
-/* 	$Id: PolyUtil.h 69 2010-03-17 19:54:10Z jraedler $	 */
 #ifndef POLY_UTIL_H
 #define POLY_UTIL_H
 
